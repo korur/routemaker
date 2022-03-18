@@ -1,4 +1,14 @@
 {
+    "master": {
+        "width": 600,
+        "height": 500,
+        "center": [
+            37.5,
+            29
+        ],
+        "scale": 2600,
+        "pointRadius": 7
+    },
     "vehicle": {
         "plane": "4,4",
         "cruise": "2,3",
