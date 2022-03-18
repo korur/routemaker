@@ -1,6 +1,8 @@
 {
-    "plane": "4,4",
-    "cruise": "2,3",
-    "coach": "none",
-    "train": "1,5"
+    "vehicles": ["{
+    plane: "4,4",
+    cruise: "2,3",
+    coach: "0,0",
+    train: "1,5"
+    }"]
 }
