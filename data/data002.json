@@ -1,0 +1,345 @@
+{
+    "master": {
+        "width": 600,
+        "height": 500,
+        "center": [
+            146.5,
+            -13.3
+        ],
+        "scale": 4500,
+        "pointRadius": 7
+    },
+    "vehicle": {
+        "plane": "4,4",
+        "cruise": "2,3",
+        "coach": "none",
+        "train": "1,5"
+    },
+    "points": [
+        {
+            "city": "Alexandria",
+            "duration": "1",
+            "lat": 29.92,
+            "long": 31.2,
+            "label": 0,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Cairo",
+            "duration": "3",
+            "lat": 31.2,
+            "long": 30,
+            "label": 0,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Aswan",
+            "duration": 2,
+            "lat": 32.9,
+            "long": 24.1,
+            "label": 0,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Abu Simbel",
+            "duration": 1,
+            "lat": 31.62,
+            "long": 22.35,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Kom Ombo",
+            "duration": "",
+            "lat": 32.94,
+            "long": 24.47,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Edfu",
+            "duration": "",
+            "lat": 32.88,
+            "long": 24.98,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Luxor",
+            "duration": 1,
+            "lat": 32.64,
+            "long": 25.69,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Hurghada",
+            "duration": 2,
+            "lat": 33.65,
+            "long": 27,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Amman",
+            "duration": 3,
+            "lat": 35.9,
+            "long": 31.9,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Wadi Rum",
+            "duration": 1,
+            "lat": 35.4,
+            "long": 29.56,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Petra",
+            "duration": 1,
+            "lat": 35.44,
+            "long": 30.33,
+            "label": 0,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Jerash",
+            "duration": "",
+            "lat": 35.89,
+            "long": 32.33,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Jerusalem",
+            "duration": 1,
+            "lat": 35.21,
+            "long": 31.77,
+            "label": 0,
+            "yoffset": 10,
+            "hide": false
+        },
+        {
+            "city": "Tel Aviv",
+            "duration": 1,
+            "lat": 34.78,
+            "long": 32.09,
+            "label": 0,
+            "yoffset": 0
+        },
+        {
+            "city": "Haifa",
+            "duration": 1,
+            "lat": 34.99,
+            "long": 32.79,
+            "label": 0,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Nazareth",
+            "duration": 1,
+            "lat": 35.5,
+            "long": 32.7,
+            "label": 1,
+            "yoffset": -5,
+            "hide": false
+        }
+    ],
+    "allpaths": [
+        {
+            "start": "Cairo",
+            "end": "Alexandria",
+            "direction": 1,
+            "curvature": 5,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Alexandria",
+            "end": "Cairo",
+            "direction": 1,
+            "curvature": 5,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Cairo",
+            "end": "Amman",
+            "direction": 1,
+            "curvature": 5,
+            "color": "black",
+            "type": "plane",
+            "thickness": 1.5
+        },
+        {
+            "start": "Aswan",
+            "end": "Cairo",
+            "direction": 0,
+            "curvature": 6,
+            "color": "black",
+            "type": "train",
+            "thickness": 5
+        },
+        {
+            "start": "Aswan",
+            "end": "Kom Ombo",
+            "direction": 1,
+            "curvature": 0.5,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Kom Ombo",
+            "end": "Edfu",
+            "direction": 0,
+            "curvature": 1,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Edfu",
+            "end": "Luxor",
+            "direction": 0,
+            "curvature": 1,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Luxor",
+            "end": "Hurghada",
+            "direction": 0,
+            "curvature": 2,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Hurghada",
+            "end": "Cairo",
+            "direction": 1,
+            "curvature": 6,
+            "color": "black",
+            "type": "plane",
+            "thickness": 1.5
+        },
+        {
+            "start": "Amman",
+            "end": "Petra",
+            "direction": 0,
+            "curvature": 6,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Petra",
+            "end": "Wadi Rum",
+            "direction": 1,
+            "curvature": 2,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Wadi Rum",
+            "end": "Amman",
+            "direction": 1,
+            "curvature": 2,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Amman",
+            "end": "Jerash",
+            "direction": 1,
+            "curvature": 1,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Jerash",
+            "end": "Amman",
+            "direction": 1,
+            "curvature": 1,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Amman",
+            "end": "Jerusalem",
+            "direction": 1,
+            "curvature": 3,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Jerusalem",
+            "end": "Nazareth",
+            "direction": 0,
+            "curvature": 12,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Nazareth",
+            "end": "Haifa",
+            "direction": 1,
+            "curvature": 1,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Haifa",
+            "end": "Tel Aviv",
+            "direction": 1,
+            "curvature": 20,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Aswan",
+            "end": "Abu Simbel",
+            "direction": 1,
+            "curvature": 5,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Abu Simbel",
+            "end": "Aswan",
+            "direction": 1,
+            "curvature": 5,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        }
+    ]
+}
