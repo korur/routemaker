@@ -33,9 +33,99 @@
             "label": 1,
             "yoffset": 0,
             "hide": false
+        },
+        {
+            "city": "Daintree",
+            "duration": "",
+            "lat": 145.42,
+            "long": -16.02,
+            "label": 1,
+            "yoffset": -6,
+            "hide": true
+        },
+        {
+            "city": "Cooktown",
+            "duration": 2,
+            "lat": 145.25,
+            "long": -15.48,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Fruit Bat Falls",
+            "duration": "",
+            "lat": 142.44,
+            "long": -11.44,
+            "label": 0,
+            "yoffset": 10,
+            "hide": false
+        },
+        {
+            "city": "Jardine River",
+            "duration": "",
+            "lat": 142.18,
+            "long": -11.15,
+            "label": 0,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Crock tent",
+            "duration": "",
+            "lat": 32.88,
+            "long": 24.98,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Bamaga",
+            "duration": 3,
+            "lat": 142.55,
+            "long": -11.13,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
+        },
+        {
+            "city": "Crock tent",
+            "duration": "",
+            "lat": 142.55,
+            "long": -10.9,
+            "label": 0,
+            "yoffset": -10,
+            "hide": true
+        },
+        {
+            "city": "Tip of Australia",
+            "duration": "",
+            "lat": 142.53,
+            "long": -10.6,
+            "label": 1,
+            "yoffset": 0,
+            "hide": false
         }
     ],
     "allpaths": [
+        {
+            "start": "Cairns",
+            "end": "Bamaga",
+            "direction": 0,
+            "curvature": 5,
+            "color": "black",
+            "type": "plane",
+            "thickness": 2
+        },
+        {
+            "start": "Bamaga",
+            "end": "Cairns",
+            "direction": 1,
+            "curvature": 5,
+            "color": "black",
+            "type": "plane",
+            "thickness": 2
+        },
         {
             "start": "Cairns",
             "end": "Rainforest",
@@ -47,9 +137,63 @@
         },
         {
             "start": "Rainforest",
+            "end": "Cooktown",
+            "direction": 1,
+            "curvature": 6,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Cooktown",
             "end": "Cairns",
+            "direction": 1,
+            "curvature": 3.3,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Bamaga",
+            "end": "Jardine River",
+            "direction": 1,
+            "curvature": 5,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Jardine River",
+            "end": "Fruit Bat Falls",
+            "direction": 1,
+            "curvature": 1,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Bamaga",
+            "end": "Tip of Australia",
             "direction": 0,
-            "curvature": 3,
+            "curvature": 2,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Tip of Australia",
+            "end": "Bamaga",
+            "direction": 0,
+            "curvature": 2,
+            "color": "black",
+            "type": "coach",
+            "thickness": 2
+        },
+        {
+            "start": "Fruit Bat Falls",
+            "end": "Bamaga",
+            "direction": 1,
+            "curvature": 2,
             "color": "black",
             "type": "coach",
             "thickness": 2
