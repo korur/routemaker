@@ -10,7 +10,7 @@
         "pointRadius": 7
     },
     "vehicle": {
-        "plane": "6,8",
+        "plane": "8,4",
         "cruise": "2,3",
         "coach": "none",
         "train": "1,5"
