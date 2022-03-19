@@ -11,7 +11,8 @@
         "title": "Egypt, Jordan, Israel",
         "titleSize": 24,
         "titleWordSpacing": 3,
-        "legendOrientation": "left-bottom"
+        "legendOrientation": "left-bottom",
+        "extra":true
     },
     "vehicle": {
         "plane": "8,8",
