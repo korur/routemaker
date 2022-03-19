@@ -11,7 +11,8 @@
         "title": "Australia",
         "titleSize": 24,
         "titleWordSpacing": 3,
-        "legendOrientation": "left-bottom"
+        "legendOrientation": "left-bottom",
+        "extra":false
     },
     "vehicle": {
         "plane": "8,8",
