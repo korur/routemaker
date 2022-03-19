@@ -12,7 +12,7 @@
         "titleSize": 24,
         "titleWordSpacing": 3,
         "legendOrientation": "left-bottom",
-        "extra":false
+
     },
     "vehicle": {
         "plane": "8,8",
