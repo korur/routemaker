@@ -16,9 +16,8 @@
         "int": 300
     },
     "vehicle": {
-        "plane": "8,8",
-        "coach": "none"
-       
+        "coach": "none",
+        "plane": "8,8"
     },
     "points": [
          {
