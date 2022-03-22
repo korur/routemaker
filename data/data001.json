@@ -15,9 +15,12 @@
         "extra":false
     },
     "vehicle": {
+        "items": {
         "train": "1,5",
         "coach": "none",
-        "plane": "8,8"
+        "plane": "8,8" 
+        },
+        "legendPos": "bottom"
     },
     "points": [
               {
