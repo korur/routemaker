@@ -15,9 +15,9 @@
         "extra":false
     },
     "vehicle": {
-        "plane": "8,8",
+        "train": "1,5",
         "coach": "none",
-        "train": "1,5"
+        "plane": "8,8"
     },
     "points": [
               {
