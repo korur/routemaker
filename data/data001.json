@@ -25,19 +25,19 @@
             "type": "Country",
             "country": "Egypt",
              "x": 0.25,
-             "y": 0.65,
+             "y": 0.65
         },
                {
             "type": "Country",
             "country": "Jordan"
                    "x":0.8,
-                   "y": 0.5,
+                   "y": 0.5
         },
           {
             "type": "Country",
             "country": "Israel"
                    "x":0.6,
-                   "y": 0.15,
+                   "y": 0.15
         },
         {
             "city": "Alexandria",
