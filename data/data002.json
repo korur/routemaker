@@ -16,8 +16,11 @@
         "int": 300
     },
     "vehicle": {
-        "coach": "none",
-        "plane": "8,8"
+        "items": {  
+            "coach": "none",
+            "plane": "8,8"
+        },
+        "legendPos": "bottom"
     },
     "points": [
          {
