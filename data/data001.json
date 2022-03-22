@@ -30,8 +30,8 @@
                {
             "type": "Country",
             "country": "Jordan",
-                   "x":0.85,
-                   "y": 0.5
+                   "x":0.87,
+                   "y": 0.47
         },
           {
             "type": "Country",
@@ -162,7 +162,7 @@
             "lat": 34.78,
             "long": 32.09,
             "label": 0,
-            "yoffset": 0
+            "yoffset": 2
         },
         {
             "city": "Haifa",
