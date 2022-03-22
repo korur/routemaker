@@ -22,6 +22,14 @@
         "train": "1,5"
     },
     "points": [
+         {
+            "type": "Country",
+            "country": "Australia",
+             "x": 0.50,
+             "y": 0.90
+        },
+        
+        
         {
             "city": "Cairns",
             "duration": "1",
