@@ -23,13 +23,21 @@
     "points": [
               {
             "type": "Country",
-            "city": "Egypt",
-            "duration": "1",
-            "lat": 26.78,
-            "long": 29.41,
-            "label": 0,
-            "yoffset": 0,
-            "hide": false
+            "country": "Egypt",
+             "x": 0.25,
+             "y": 0.65,
+        },
+               {
+            "type": "Country",
+            "country": "Jordan"
+                   "x":0.8,
+                   "y": 0.5,
+        },
+          {
+            "type": "Country",
+            "country": "Israel"
+                   "x":0.6,
+                   "y": 0.15,
         },
         {
             "city": "Alexandria",
