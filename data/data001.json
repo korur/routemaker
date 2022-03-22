@@ -21,6 +21,16 @@
         "train": "1,5"
     },
     "points": [
+              {
+            "type": "Country",
+            "city": "Egypt",
+            "duration": "1",
+            "lat": 33,
+            "long": 31.2,
+            "label": 0,
+            "yoffset": 0,
+            "hide": false
+        },
         {
             "city": "Alexandria",
             "duration": "1",
