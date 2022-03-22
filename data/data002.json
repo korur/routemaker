@@ -17,9 +17,8 @@
     },
     "vehicle": {
         "plane": "8,8",
-        "cruise": "2,3",
-        "coach": "none",
-        "train": "1,5"
+        "coach": "none"
+       
     },
     "points": [
          {
