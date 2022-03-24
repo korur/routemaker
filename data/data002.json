@@ -1,21 +1,36 @@
 {
     "master": {
         "width": 600,
-        "height": 500,
+        "height": 600,
         "center": [
             146.5,
-            -13.3
+            -13.8
         ],
         "scale": 4500,
-        "pointRadius": 7
+        "pointRadius": 7,  
+        "title": "Australia",
+        "titleSize": 24,
+        "titleWordSpacing": 3,
+        "legendOrientation": "left-bottom",
+        "ext":443,
+        "int": 300
     },
     "vehicle": {
-        "plane": "8,8",
-        "cruise": "2,3",
-        "coach": "none",
-        "train": "1,5"
+        "items": {  
+            "coach": "none",
+            "plane": "8,8"
+        },
+        "legendPos": "bottom"
     },
     "points": [
+         {
+            "type": "Country",
+            "country": "Australia",
+             "x": 0.50,
+             "y": 0.90
+        },
+        
+        
         {
             "city": "Cairns",
             "duration": "1",
