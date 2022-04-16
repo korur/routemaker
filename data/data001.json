@@ -44,8 +44,8 @@
         {
             "city": "Alexandria",
             "duration": "1",
-            "lat": 29.92,
-            "long": 31.2,
+            "long": 29.92,
+            "lat": 31.2,
             "label": 0,
             "yoffset": 0,
             "hide": false
@@ -53,8 +53,8 @@
         {
             "city": "Cairo",
             "duration": "3",
-            "lat": 31.2,
-            "long": 30,
+            "long": 31.2,
+            "lat": 30,
             "label": 0,
             "yoffset": 0,
             "hide": false
@@ -62,8 +62,8 @@
         {
             "city": "Aswan",
             "duration": 2,
-            "lat": 32.9,
-            "long": 24.1,
+            "long": 32.9,
+            "lat": 24.1,
             "label": 0,
             "yoffset": 0,
             "hide": false
@@ -71,8 +71,8 @@
         {
             "city": "Abu Simbel",
             "duration": 1,
-            "lat": 31.62,
-            "long": 22.35,
+            "long": 31.62,
+            "lat": 22.35,
             "label": 1,
             "yoffset": 0,
             "hide": false
@@ -80,8 +80,8 @@
         {
             "city": "Kom Ombo",
             "duration": "",
-            "lat": 32.94,
-            "long": 24.47,
+            "long": 32.94,
+            "lat": 24.47,
             "label": 1,
             "yoffset": 0,
             "hide": false
@@ -89,8 +89,8 @@
         {
             "city": "Edfu",
             "duration": "",
-            "lat": 32.88,
-            "long": 24.98,
+            "long": 32.88,
+            "lat": 24.98,
             "label": 1,
             "yoffset": 0,
             "hide": false
@@ -98,8 +98,8 @@
         {
             "city": "Luxor",
             "duration": 1,
-            "lat": 32.64,
-            "long": 25.69,
+            "long": 32.64,
+            "lat": 25.69,
             "label": 1,
             "yoffset": 0,
             "hide": false
@@ -107,8 +107,8 @@
         {
             "city": "Hurghada",
             "duration": 2,
-            "lat": 33.65,
-            "long": 27,
+            "long": 33.65,
+            "lat": 27,
             "label": 1,
             "yoffset": 0,
             "hide": false
@@ -116,8 +116,8 @@
         {
             "city": "Amman",
             "duration": 3,
-            "lat": 35.9,
-            "long": 31.9,
+            "long": 35.9,
+            "lat": 31.9,
             "label": 1,
             "yoffset": 0,
             "hide": false
@@ -125,8 +125,8 @@
         {
             "city": "Wadi Rum",
             "duration": 1,
-            "lat": 35.4,
-            "long": 29.56,
+            "long": 35.4,
+            "lat": 29.56,
             "label": 1,
             "yoffset": 0,
             "hide": false
@@ -134,8 +134,8 @@
         {
             "city": "Petra",
             "duration": 1,
-            "lat": 35.44,
-            "long": 30.33,
+            "long": 35.44,
+            "lat": 30.33,
             "label": 0,
             "yoffset": 0,
             "hide": false
@@ -143,8 +143,8 @@
         {
             "city": "Jerash",
             "duration": "",
-            "lat": 35.89,
-            "long": 32.33,
+            "long": 35.89,
+            "lat": 32.33,
             "label": 1,
             "yoffset": 0,
             "hide": false
@@ -152,8 +152,8 @@
         {
             "city": "Jerusalem",
             "duration": 1,
-            "lat": 35.21,
-            "long": 31.77,
+            "long": 35.21,
+            "lat": 31.77,
             "label": 0,
             "yoffset": 10,
             "hide": false
@@ -161,16 +161,16 @@
         {
             "city": "Tel Aviv",
             "duration": 1,
-            "lat": 34.78,
-            "long": 32.09,
+            "long": 34.78,
+            "lat": 32.09,
             "label": 0,
             "yoffset": 2
         },
         {
             "city": "Haifa",
             "duration": 1,
-            "lat": 34.99,
-            "long": 32.79,
+            "long": 34.99,
+            "lat": 32.79,
             "label": 0,
             "yoffset": -8,
             "hide": false
@@ -178,8 +178,8 @@
         {
             "city": "Nazareth",
             "duration": 1,
-            "lat": 35.5,
-            "long": 32.7,
+            "long": 35.5,
+            "lat": 32.7,
             "label": 1,
             "yoffset": -5,
             "hide": false
